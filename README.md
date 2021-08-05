@@ -8,7 +8,7 @@ this is a Typing Speed Game project using basic java
   ```
 
 ## **Prototype Typing Speed Game**
-Link prototype [download](https://xd.adobe.com/view/73b71280-4f5c-4d53-b2ff-1595edd712d6-26e4/)
+Link prototype [download](https://xd.adobe.com/view/343cdebd-cbfc-488b-bb1d-e08284ae6c32-616f/)
 
 ![prototype](src/typingspeed-prototype.jpg)
 
