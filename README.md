@@ -1,15 +1,17 @@
 # **TypingSpeed Game** Project
 this is a Typing Speed Game project using basic java
 
-## **Run Program**
-  **.jar** stored in the target folder
-  ```bash
-  java -jar TypingSpeed-Game.jar
-  ```
+## how to run app
+- download and install [JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+- setup environment and check java version installation on terminal
+    - ```shell
+      java --version
+- download this _repository_ or download **TypingSpeed-Game.jar** in the target folder
+- open terminal and go to file **TypingSpeed-Game.jar** run the program
+  - ````shell
+    C:\Users\YourComputer\Downloads\TypingSpeed-Game> java -jar TypingSpeed-Game.jar
 
 ## **Prototype Typing Speed Game**
-Link prototype [download](https://xd.adobe.com/view/343cdebd-cbfc-488b-bb1d-e08284ae6c32-616f/)
-
 ![prototype](src/typingspeed-prototype.jpg)
 
 <br>
